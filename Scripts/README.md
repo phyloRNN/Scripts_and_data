@@ -17,7 +17,7 @@ Scripts to generate training and test datasets with 50 taxa and alignments of 10
 ### Clownfish_scripts
 `1.simulate_and_train.py` Generate training set for the analysis of an alignment spanning chromosome 1 of 28 species of clownfish in batches of 1000 sites, and train a `phyloRNN` model.
 
-`2.clownfish_predictions.py` Predict site rates across chromosome 1 of the clownfish clade (data available in [clownfish data](clownfish data link)). 
+`2.clownfish_predictions.py` Predict site rates across chromosome 1 of the clownfish clade (data available [here](https://datadryad.org/stash/share/rTkpzhuzwFtg9SxT4A4xT4oBLG2nxBf88fpqqmQkbvQ)). 
 
 `3.plot_results.py` Parse exon annotation and plot results. 
 
